@@ -13,6 +13,9 @@ const times = [
     },
     {
         id: 5, nome: "Santos"
+    },
+    {
+        id:6, nome: "Flamengo"
     }
 ];
 
