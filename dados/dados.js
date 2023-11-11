@@ -16,7 +16,10 @@ const times = [
     },
     {
         id:6, nome: "Flamengo"
-    }
+    },
+    {   
+        id:7, nome: "Fluminense"
+    },
 ];
 
 export default times;
