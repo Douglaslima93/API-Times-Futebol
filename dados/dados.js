@@ -20,6 +20,9 @@ const times = [
     {   
         id:7, nome: "Fluminense"
     },
+    {  
+        id:8, nome: "Goiás"
+    },
 ];
 
 export default times;
