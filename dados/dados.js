@@ -26,6 +26,9 @@ const times = [
     {
         id:9, nome: "Gremio"
     },
+    {
+        id:10, nome: "Atletico Mineiro"
+    },
 ];
 
 export default times;
